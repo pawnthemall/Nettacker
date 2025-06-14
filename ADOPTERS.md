@@ -15,7 +15,7 @@
 
  | Logo | Name | Description | Website |
  | ---- | ---- | ----------- | ------- |
- | <!-- ![Acme Logo](path/to/logo.png) --> | **Example Acme Corp** | Uses Nettacker for automated penetration testing. | https://acme.example.com |
+ | no logo online just yet | **Bamboo Digital Sevices** | Uses Nettacker for automated penetration testing. | https://bamboodigital.nz |
  | <!-- ![SecurityCo Logo](path/to/securityco-logo.png) --> | **Example SecurityCo** | Integrates Nettacker into their CI/CD pipeline for continuous security assessment. | https://securityco.example.org |
 
  ## Community Projects
